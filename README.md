@@ -1,4 +1,4 @@
-## Hi there 👋, It's me Aman!
+## Hi there 👋, It's me Aman
 
 <!--
 **amanghmr/amanghmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
